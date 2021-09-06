@@ -1,4 +1,4 @@
-# Emotion_Analysis_Using_Naive_Bayes
+# Emotion Analysis Using Naive Bayes
 This project is a simple model that uses the Naive Bayes algorithm to predict an emotion for each sentence. There are six classes in [the dataset](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp): anger, sadness, joy, fear, love, and surprise. The length of the train part is 18000, and this number is 2000 for the test part. After preprocessing(such as stop words and stemming), there are 11123 different words. The accuracy for the whole dataset is 0.658. You can see the accuracy of each class below:
 
 ![Accuracy image](https://github.com/Mamin78/Emotion_Analysis_Using_Naive_Bayes/blob/main/accuracy.png?raw=true)
